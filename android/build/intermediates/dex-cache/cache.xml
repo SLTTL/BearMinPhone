@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_ee5be6ced761e0b882175ec7c3b286f5c9d18427.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_fe534c15ccef4294cd4a48027df4bc8b21c718ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="576b5113887747a7592650ae14d980e1c57983c4">
+        <dex dex="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.47.2_4997f66ef6ce8f751c8e50fb246a99afc4f8254f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sd/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_be7825a04a04614e45dfc964806d3fcd60ce7af9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_3321a8f21943413b2437f2903b90f9ace34e6727.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_4eb0d0097b8658d91e5c5f56f53bbe5c0aa268e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sd/.gradle/caches/modules-2/files-2.1/com.drewnoakes/metadata-extractor/2.9.1/53fdf22be10c9d426ec63431c7342895bc642261/metadata-extractor-2.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/pre-dexed/debug/metadata-extractor-2.9.1_76a5b5ffcec61126fe4be40aaf6f8f986b8766cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_b311080e257a1eac5ddd00878b8263d892df6b31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_68f3bd1a7a629de1b1c32517c3a2404a77c5002d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sd/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/pre-dexed/debug/core-3.2.1_691cea275609194eabe5a38331404fb478e45298.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_ed653f98c9dcc71e45fc36dcb21319cfe8dcd8a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_6f84482fd1dc18f735f7293d50a27ef6697175a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_8d526a7726de3d7eecb47cf313f8baf7fb066b8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sd/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_3f1113c7e0b47e696810aa2d66c2cca15bae9785.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sd/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_8d49c77c3b9b123048ec73e95c2c3c927cb793fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sd/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_8ad7281d002f8c734fbaa80417293945c4c94d16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sd/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_cd67499d0cef57edf4d0807d54c25133d391d9f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sd/.gradle/caches/modules-2/files-2.1/com.adobe.xmp/xmpcore/5.1.2/55615fa2582424e38705487d1d3969af8554f637/xmpcore-5.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/pre-dexed/debug/xmpcore-5.1.2_7f3863c88e77d7799012d5ccfe3c09993a9811b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sd/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_65d34e98939e2d1e86b5f3fc3c4a2e1f94e607f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_b551763e4a955e7f2ed5977674b57c0c4708701a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_f9064b97ee1c1669f30f3a6bf4e5188279a5b183.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sd/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_4c19cd1f70ec5daa3fb9272b498f9b6f80bbbb95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/exploded-aar/BearMinPhone/react-native-camera/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="eb04c157cfa908c6123a0a34dc120f38e8c2a28e">
+        <dex dex="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/pre-dexed/debug/BearMinPhone-react-native-camera-unspecified_5d553e92d0edb28045ba8260ad21f3e8e001f12d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sd/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_04e4d1119d6a111fe288af53e1c2d0d83d42cc17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.2/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_6e23a1aa634e839aec8bf4cc6eecd9a3ed766e77.jar" />
+    </item>
+
+</items>

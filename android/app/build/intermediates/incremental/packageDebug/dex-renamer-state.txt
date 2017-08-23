@@ -1,0 +1,4 @@
+#Wed Aug 23 11:48:26 PDT 2017
+base.0=/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/sd/Desktop/react/practice/BearMinPhone/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
